@@ -29,7 +29,7 @@ This project utilized both univariate and multivariate analysis to extract criti
 
 ### Project Structure
 
-- `data`: contains the raw dataset, cleaned dataset, and partitioned datasets.
+- `data`: contains the raw dataset.
 - `notebooks`: contains Jupyter notebooks for data preprocessing, EDA, and modelling.
 - `data dictionaey`: table in pdf.
 - `presentation`: in ppx.
