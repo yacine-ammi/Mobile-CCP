@@ -29,9 +29,9 @@ This project utilized both univariate and multivariate analysis to extract criti
 
 ### Project Structure
 
-- `data`: contains the raw dataset.
-- `notebooks`: contains Jupyter notebooks for data preprocessing, EDA, and modelling.
-- `data dictionaey`: table in pdf.
+- [`data`](https://github.com/yacine-ammi/Mobile-CCP/blob/main/Mobile_Churn-Data.xlsx): contains the raw dataset.
+- [`data dictionaey`](https://github.com/yacine-ammi/Mobile-CCP/blob/main/Mobile_Churn_Data_Dictionary.pdf): table in pdf.
+- [`notebook`](https://github.com/yacine-ammi/Mobile-CCP/blob/main/Mobile_Churn_ML_Model.ipynb): contains Jupyter notebooks for data preprocessing, EDA, and modelling.
 - `presentation`: in ppx.
 
 ### Conclusion
